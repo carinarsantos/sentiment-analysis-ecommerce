@@ -107,5 +107,6 @@ LinkedIn: https://www.linkedin.com/in/ana-carina-romualdo-dos-santos/
 
 GitHub: https://github.com/carinarsantos
 
+Streamlit: https://sentiment-analysis-ecommerce.streamlit.app/
 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.

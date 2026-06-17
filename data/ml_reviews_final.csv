@@ -1,0 +1,14 @@
+﻿title,text,date,text_clean,neg,neu,pos,compound,sentiment
+,"Produto √© bonito e rapido tanto para ligar ou reiniciar, tem um bom tempo de resposta, √© meu primeiro xiaomi, migrando depois de anos na motorola iria pegar o edge 50 pro, mais o meu moto g73 estufou a bateria depois de 2 anos de uso e junto estragou o doc de carga, foi o primeiro moto que tive problema mais pelo valor que paguei no lan√ßamento esperava mais qualidade. Depois de um tempo de uso no poco x7 pro volto para reavaliar.",16 mar. 2025,produto bonito rapido tanto ligar reiniciar bom tempo resposta primeiro xiaomi migrando anos motorola iria pegar edge pro moto g estufou bateria anos uso junto estragou doc carga primeiro moto problema valor paguei lanamento esperava qualidade tempo uso poco x pro volto reavaliar,0.089,0.783,0.128,0.4215,Positivo
+,Estou adorando üòä.,14 mar. 2025,adorando,0.0,0.0,1.0,0.5994,Positivo
+,"Aparelho √© sensacional!!!.
+A mem√≥ria √© coisa de doido, super indico.
+S√≥ preciso citar que a caixa veio com um amassadinho, mas nada que comprometesse o aparelho.
+Deve ter sido ao embalar mesmo.",17 mar. 2025,aparelho sensacional memria coisa doido super indico s preciso citar caixa veio amassadinho nada comprometesse aparelho deve ter sido embalar,0.099,0.741,0.16,0.3612,Positivo
+,"Aparelho √≥timo, bate de frente com aparelhos com o dobro do pre√ßo.
+A bateria dura quase 2 dias (s√≥ configurar a tela para 60 fps).",09 mai. 2025,aparelho timo bate frente aparelhos dobro preo bateria dura quase dias s configurar tela fps,0.0,0.801,0.199,0.4995,Positivo
+,"Poco x7 pro aparelho espetacular, comprem sem medo, recomendo!.",06 mai. 2025,poco x pro aparelho espetacular comprem medo recomendo,0.252,0.551,0.197,-0.1779,Negativo
+,"Nossa. Me surpreendeu. Excelente acabamento, velocidade, c√¢mera, tela. Aparelho maravilhoso. Recomendo demais!!!!.",24 mar. 2025,surpreendeu excelente acabamento velocidade cmera tela aparelho maravilhoso recomendo demais,0.0,0.404,0.596,0.8957,Positivo
+,"Perfeito aparelho, muito lindo e 100% funcional, tudo funcionando perfeitamente, carregamento de v√≠deos muito r√°pido, mas a bateria est√° durando s√≥ um dia, achei que fosse durar um pouquinho mais. Mas est√° √≥timo, estou bastante satisfeito.",27 mai. 2025,perfeito aparelho lindo funcional tudo funcionando perfeitamente carregamento vdeos rpido bateria est durando s dia achei durar pouquinho est timo bastante satisfeito,0.0,0.569,0.431,0.9448,Positivo
+,Celular excelente!.,23 mar. 2025,celular excelente,0.0,0.351,0.649,0.5719,Positivo
+,Celular do momento.,21 mar. 2025,celular momento,0.0,1.0,0.0,0.0,Neutro

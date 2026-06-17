@@ -1,0 +1,41 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de Notebooks Jupyter
+.ipynb_checkpoints
+
+# Arquivos de dados grandes ou sensíveis (se aplicável)
+# Nossos CSVs são pequenos, então não precisam ser ignorados por enquanto.
+# Se tivéssemos um arquivo de 1GB, adicionaríamos aqui:
+# large_dataset.csv
+
+# Pasta de downloads do NLTK (se você usou a abordagem local)
+nltk_data/
+**/nltk_data/
+
+# Pastas temporárias do virtualenv e NLTK (para contornar bloqueios de arquivos)
+temp_venv/
+temp_src_venv/
+temp_nltk_data/
+**/temp_venv/
+**/temp_src_venv/
+**/temp_nltk_data/
+git_status.txt
